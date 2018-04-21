@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "b82fb4f5-2d36-41b5-928d-6da8617e05ba",
+            "Value": {
+                "id": "eebc2b45-14ba-4bdc-a680-56f085fc31a5",
+                "resourcePath": "scripts\\scrptCarMovement\\scrptCarMovement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "bba65d47-be0a-4496-bde1-51692a4bc0a6",
             "Value": {
                 "id": "9a5b8d86-607b-4eaf-9c33-b88acb51b2b9",
@@ -119,11 +127,27 @@
             }
         },
         {
+            "Key": "c6ff3066-f8c8-4e6f-b54d-f66ff823742f",
+            "Value": {
+                "id": "7484c140-5120-48bb-8141-547c6c5a4eb5",
+                "resourcePath": "sprites\\sprCarShit\\sprCarShit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "e6609075-466a-43ac-a57a-f64b18d1a2d2",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "da73eabd-ad5a-418f-8ebd-b58409114e92",
+            "Value": {
+                "id": "26447b32-d440-41a9-ae4a-1b8e4617f994",
+                "resourcePath": "objects\\objCar\\objCar.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -176,7 +200,7 @@
         }
     ],
     "script_order": [
-        
+        "b82fb4f5-2d36-41b5-928d-6da8617e05ba"
     ],
     "tutorial": ""
 }
